@@ -1,12 +1,4 @@
-* {
-  background-color: gray;
-  color: white;
-}
-div {
-  width: 100vw;
-  height: 40vh;
-  flex-direction: column;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+*{
+    background-repeat: no-repeat;
+    
 }
